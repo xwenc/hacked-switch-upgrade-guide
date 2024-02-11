@@ -14,7 +14,7 @@
 	95.216.149.205 *ctest.cdn.nintendo.net
 #### 7. Find Switch Firmwares package and Download the latest release, [[Here]](https://darthsternie.net/switch-firmwares/)
 #### 8. Put Firmwares unzip files on your SD Card
-#### 9, Click Power button and choose CFW (EMUMMC) to open system. Enter ```Photo album ->Daybreak->Install-> Select the firmware directory```，click Next button, Click Reboot button after success
+#### 9, Click Power button and choose CFW (EMUMMC) to open system. Enter ```Photo album ->Daybreak->Install-> Select the firmware directory```，click Next button, Click Reboot button after success. (Must use windows system to copy!)
 #### 10, Plugins: [Tinfoil](https://tinfoil.io/Download), [Awoo-installer](https://github.com/Huntereb/Awoo-Installer)
 #### 11. Reference Url: 
 [https://marsshen.com/posts/20e16ead/](https://marsshen.com/posts/20e16ead/)
